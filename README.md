@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kelechithe3rd" target="blank"><img src="https://img.shields.io/twitter/follow/kelechithe3rd?logo=twitter&style=for-the-badge" alt="kelechithe3rd" /></a> </p>
 
-- 🔭 I’m currently **en la cocina**
+- 🔭 I’m currently **cooking**
 
 -  👯 I’m looking to collaborate on **life impacting projects**
 
