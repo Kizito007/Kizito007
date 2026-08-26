@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats-eight-livid.vercel.app/api/top-langs?username=kizito007&show_icons=true&locale=en&layout=compact" alt="kizito007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-livid.vercel.app/api?username=kizito007&show_icons=true&locale=en" alt="kizito007" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-livid.vercel.app/api?username=kizito007&show_icons=true&locale=en" alt="kizito007" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kizito007&" alt="kizito007" /></p>
