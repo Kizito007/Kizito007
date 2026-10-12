@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0ccf1108972381.5fc920e3dd0bd.jpeg)](https://kizito007.netlify.app)
+[![MasterHead](https://www.naukri.com/campus/career-guidance/wp-content/uploads/2024/01/software-engineers-roles-1024x535.jpg)](https://kizito007.netlify.app)
 <h1 align="center">Hi 👋, I'm Kizito .K. Nwaka</h1>
 <h3 align="center">A passionate Software Engineer from your friendly neighborhood 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
