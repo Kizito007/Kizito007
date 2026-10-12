@@ -1,6 +1,6 @@
 [![MasterHead](https://www.naukri.com/campus/career-guidance/wp-content/uploads/2024/01/software-engineers-roles-1024x535.jpg)](https://kizito007.netlify.app)
 <h1 align="center">Hi 👋, I'm Kizito .K. Nwaka</h1>
-<h3 align="center">I build startups for breakfast 😉🚀</h3>
+<h3 align="center">I build projects for breakfast 😉🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizito007&label=Profile%20views&color=0e75b6&style=flat" alt="kizito007" /> </p>
